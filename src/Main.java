@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-/* Patrick Fitzgerald*/
+/* Patrick Fitzgerald */
 
 public class Main {
     public static void main(String[] args) {
